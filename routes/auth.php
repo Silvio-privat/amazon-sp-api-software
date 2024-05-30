@@ -1,4 +1,3 @@
-{{--This is routes Page for all pages--}}
 <?php
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 use App\Http\Controllers\Auth\ConfirmablePasswordController;
