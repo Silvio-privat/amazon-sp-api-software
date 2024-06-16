@@ -6,3 +6,4 @@
 4. connect mysql database 
 5. php artisan key: generate
 6. php artisan serve
+7. fix bug and error
